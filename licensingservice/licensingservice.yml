@@ -1,4 +1,4 @@
-example.property: "I AM IN THE DEFAULT DEF DEF DEF"
+example.property: "I AM IN THE DEFAULT DEF DEF DEF and lacalut"
 spring.jpa.database: "POSTGRESQL"
 spring.datasource.platform:  "postgres"
 spring.jpa.show-sql: "true"
